@@ -11,8 +11,9 @@ button{
   box-shadow: 2px 2px 5px grey;
 }
 
+/* SECTION 1 */
 .sec1{
-  background-image: url(https://github.com/G-Samarth/Frontend-Mentor-Huddle-landing-page/blob/master/images/bg-hero-desktop.svg);
+  background-image: url(images/bg-hero-desktop.svg);
   max-width: 100%;
   height: auto;
   background-repeat: no-repeat;
@@ -55,6 +56,7 @@ nav .btn{
   font-weight: 700;
 }
 
+/* SECTION 2 */
 .sec2 .border{
   border-radius: 1.5rem;
   box-shadow: 0 0 7.5px lightgrey;
@@ -72,6 +74,7 @@ nav .btn{
   opacity: 0.7;
 }
 
+/* SECTION 3 */
 .sec3{
   border-radius: 1.5rem;
   background-color: #FFF;
@@ -98,6 +101,7 @@ nav .btn{
   font-weight: 700;
 }
 
+/* SECTION 4 */
 .sec4{
   background-color: #00252E;
   color: #FFF;
@@ -123,6 +127,7 @@ table{
   font-size: 0.75rem;
 }
 
+/* For Mobile */
 @media (max-width: 650px) {
   body, h1{
     font-size: 1.7rem;
